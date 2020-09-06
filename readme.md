@@ -17,7 +17,9 @@ The application has the purpose of saving five contacts from the list saved on t
 
 ```sh
 npm install
-ionic serve or ionic cordova run android in device 
+ionic serve 
+or to run in device
+ionic cordova run android
 ```
 
 
