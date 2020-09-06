@@ -13,8 +13,13 @@ The application has the purpose of saving five contacts from the list saved on t
 
 ## Development setup
 
+
+
+```sh
 npm install
 ionic serve or ionic cordova run android in device 
+```
+
 
 ## Presentation video
 
