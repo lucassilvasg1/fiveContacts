@@ -25,4 +25,4 @@ ionic cordova run android
 
 ## Presentation video
 
-* 
+* https://youtu.be/4q7UW2Q-0Qc
